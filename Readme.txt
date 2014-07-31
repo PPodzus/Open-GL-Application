@@ -2,8 +2,8 @@ This is a simple application done in OpenGL with help of GLUT 3.7 (http://www.op
 The application displays a hard-coded string of letters to the screen, while the user has the ability to move and rotate
 it around, with few additional effects available.
 Keys:
-[1] Random colours for each vertex each frame && background
-[2] Random colours per letter
+[1] Random colours for each vertex and backgroundeach frame 
+[2] Random colours per letter each frame
 [R] Randomize letters
 [W] Rotate Text Up
 [A] Rotate Text Left
